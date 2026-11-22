@@ -1,0 +1,11 @@
+{
+  "org": "near",
+  "repo": "near-workspaces-rs",
+  "versions": [
+    {
+      "commit": "dc729222070b508381b8dc81c027b0c0e6720567",
+      "tag": "near-workspaces-v0.22.1",
+      "parsed_at": "2026-11-22T10:32:12.357107+00:00"
+    }
+  ]
+}
